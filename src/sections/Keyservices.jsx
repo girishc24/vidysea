@@ -1,7 +1,7 @@
 import React from 'react';
 import { key_services } from "@/assets/images";
 
-const Keyservices = () => {
+const KeyServices = () => {
   return (
     <section className="container mx-auto px-6 py-12 max-sm:p-0">
       <div className='max-w-[1000px] mx-auto text-center'>
@@ -42,4 +42,4 @@ const Keyservices = () => {
   );
 };
 
-export default Keyservices;
+export default KeyServices;
