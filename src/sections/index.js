@@ -6,7 +6,7 @@ import Students from "./Students";
 import Aboutus from "./Aboutus";
 import Media from "./Media";
 import Faq from "./Faq";
-import Testimonials from "./Testimonials";
+import Testimonials from "./testimonials";
 import KeyServices from "./KeyServices";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
