@@ -4,7 +4,7 @@ import Journey from "./Journey";
 import Services from "./Services";
 import Testimonials from "./Testimonials";
 import Students from "./Students";
-import KeyServices from "./KeyServices";
+import KeyServices from "./Keyservices";
 import Aboutus from "./Aboutus";
 import Media from "./Media";
 import Faq from "./Faq";
@@ -23,5 +23,5 @@ export {
     Media,
     Faq,
     Subscribe,
-    Footer
+    Footer,
 }
