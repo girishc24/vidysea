@@ -8,7 +8,7 @@ const Product = () => {
     <div className="w-full py-12 px-8 max-sm:px-4">
       <div className="max-w-[1400px] mx-auto">
         {/* Slider Container */}
-        <div className="flex gap-6 overflow-x-auto pb-8 snap-x snap-mandatory hide-scrollbar">
+        <div className="flex gap-6 overflow-x-auto pb-8 max-sm:pb-0 snap-x snap-mandatory hide-scrollbar">
           {products.map((product, index) => (
             <div 
               key={index} 
@@ -17,7 +17,7 @@ const Product = () => {
               <img 
                 src={product.imgPath} 
                 alt={product.label} 
-                className="w-full h-full object-cover"
+                className="w-full max-sm:w-[85%] h-full max-sm:h-[90%] object-cover"
               />
             </div>
           ))}

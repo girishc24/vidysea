@@ -5,7 +5,7 @@ const Keyservices = () => {
   return (
     <section className="container mx-auto px-6 py-12 max-sm:p-0">
       <div className='max-w-[1000px] mx-auto text-center'>
-        <h2 className='text-[48px] font-bold text-[#333] mb-8'>
+        <h2 className='text-[48px] max-sm:text-[35px] font-bold text-[#333] mb-8 max-sm:px-10 max-sm:py-10 '>
           Key Services by Vidysea
         </h2>
         

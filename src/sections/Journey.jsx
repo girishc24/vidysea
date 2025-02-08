@@ -8,7 +8,7 @@ const Journey = () => {
           Your Journey
         </h2>
         
-        <p className='text-[42px] leading-[1.4]'>
+        <p className='text-[42px] max-sm:text-[24px] leading-[1.4] '>
           <span className='text-[#333] '>From navigating </span>
           <span className='text-gray-400'>endless options to settling into your dream university, Vidysea's got your back. Every step, every milestone - we make it seamless, stress-free, and truly about your Victory.</span>
         </p>

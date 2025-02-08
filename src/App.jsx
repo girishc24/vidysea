@@ -11,23 +11,23 @@ const App = () => {
           <Hero />
         </section>
 
-        <section className="px-11 ml-4">
+        <section className="px-11 max-sm:px-0 ml-4">
             <Product/> 
         </section>
 
-        <section className="px-8 py-20">
+        <section className="px-8 ">
             <Journey/>
         </section>
         
-        <section className="px-8 py-20 pt-0 max-sm:pt-0">
+        <section className=" pt-0 max-sm:pt-0">
             <Services/>
         </section>
 
-        <section className="bg-pale-blue px-6 lg:px-20 py-16 rounded-2xl max-container-lg">
+        <section className="bg-pale-blue lg:px-20 py-4 rounded-2xl max-container-lg">
             <Students/>
         </section>
 
-        <section className="px-[3.5rem] pt-0 pb-0 max-sm:p-0">
+        <section className="px-[3.5rem] py-7 max-sm:p-0">
             <KeyServices/>
         </section>
 

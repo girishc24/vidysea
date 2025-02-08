@@ -8,6 +8,7 @@ import InstagramLogo from './InstagramLogo.svg'
 import PhoneCall from './PhoneCall.svg'
 import EnvelopeSimple from './EnvelopeSimple.svg'
 import quotationmarks from './quotation-marks.svg'
+import about_shape from './shape.svg'
 
 export {
     hamburger,
@@ -19,4 +20,5 @@ export {
     PhoneCall,
     EnvelopeSimple,
     quotationmarks,
+    about_shape,
 }

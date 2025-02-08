@@ -22,6 +22,7 @@ import footer_logo from './footer_logo.svg'
 import customer1 from './customer1.png'
 import customer2 from './customer2.png'
 
+import about_vidya from './aboutvidysea.png'
 
 export {
  
@@ -55,6 +56,8 @@ export {
 
     customer1,
     customer2,
+
+    about_vidya,
    
     
 }
