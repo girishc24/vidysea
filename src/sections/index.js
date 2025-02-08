@@ -2,7 +2,7 @@ import Hero from "./Hero";
 import Product from "./Product";
 import Journey from "./Journey";
 import Services from "./Services";
-import Testimonials from "./Testimonials";
+import Testimonials from "./testimonials";
 import Students from "./Students";
 import KeyServices from "./Keyservices";
 import Aboutus from "./Aboutus";
