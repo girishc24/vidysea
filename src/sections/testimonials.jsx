@@ -3,7 +3,7 @@ import { reviews } from '../constants';
 import { quotationmarks } from "../assets/icons";
 import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 
-const Testimonials = () => {
+const testimonials = () => {
   const scrollRef = React.useRef(null);
 
   const scroll = (direction) => {
@@ -91,4 +91,4 @@ const Testimonials = () => {
   );
 };
 
-export { Testimonials };
+export default testimonials;
