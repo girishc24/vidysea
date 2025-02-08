@@ -2,7 +2,7 @@ import Hero from "./Hero";
 import Product from "./Product";
 import Journey from "./Journey";
 import Services from "./Services";
-import testimonials from './testimonials';
+import Testimonials from './testimonials';
 import Students from "./Students";
 import KeyServices from "./KeyServices";
 import Aboutus from "./Aboutus";
@@ -16,7 +16,7 @@ export {
   Product,
   Journey,
   Services,
-  testimonials,
+  Testimonials,
   Students,
   KeyServices,
   Aboutus,

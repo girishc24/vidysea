@@ -1,4 +1,4 @@
-import {Hero, Product, Journey, Services, testimonials, Students, KeyServices, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
+import {Hero, Product, Journey, Services, Testimonials, Students, KeyServices, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
 import Nav from './components/Nav';
 
 const App = () => {
@@ -40,7 +40,7 @@ const App = () => {
         </section>
 
         <section className="">
-          <testimonials/>
+          <Testimonials/>
         </section>
 
         <section className="padding max-container-sm pt-0">
