@@ -9,6 +9,10 @@ import PhoneCall from './PhoneCall.svg'
 import EnvelopeSimple from './EnvelopeSimple.svg'
 import quotationmarks from './quotation-marks.svg'
 import about_shape from './shape.svg'
+import hero_shape_01 from './hero_shape_01.svg'
+import hero_shape_02 from './hero_shape_02.svg'
+import hero_shape_03 from './hero_shape_03.svg'
+import hero_shape_04 from './hero_shape_04.svg'
 
 export {
     hamburger,
@@ -21,4 +25,9 @@ export {
     EnvelopeSimple,
     quotationmarks,
     about_shape,
+
+    hero_shape_01,
+    hero_shape_02,
+    hero_shape_03,
+    hero_shape_04,
 }
