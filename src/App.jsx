@@ -1,6 +1,5 @@
-import {Hero, Product, Journey, Services, Testimonials, Students, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
+import {Hero, Product, Journey, Services, Testimonials, Students, KeyServices, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
 import Nav from './components/Nav';
-import KeyServicesNew from './sections/KeyServices';
 
 const App = () => {
   
@@ -29,7 +28,7 @@ const App = () => {
         </section>
 
         <section className="px-[3.5rem] py-7 max-sm:p-0">
-            <KeyServicesNew/>
+            <KeyServices/>
         </section>
 
         <section className="px-[3.5rem] pt-0 pb-0 max-sm:p-0">
