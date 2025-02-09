@@ -1,5 +1,6 @@
-import {Hero, Product, Journey, Services, Testimonials, Students, KeyServices, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
+import {Hero, Product, Journey, Services, Testimonials, Students, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
 import Nav from './components/Nav';
+import KeyServices from './sections/KeyServices';
 
 const App = () => {
   
