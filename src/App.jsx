@@ -28,7 +28,7 @@ const App = () => {
         </section>
 
         <section className="px-[3.5rem] py-7 max-sm:p-0">
-            Testing
+            Key Services
         </section>
 
         <section className="px-[3.5rem] pt-0 pb-0 max-sm:p-0">
