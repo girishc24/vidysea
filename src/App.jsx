@@ -1,6 +1,6 @@
 import {Hero, Product, Journey, Services, Testimonials, Students, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
 import Nav from './components/Nav';
-import KeyServicesNew from './sections/KeyServices';
+// import KeyServicesNew from './sections/KeyServices';
 
 const App = () => {
   
