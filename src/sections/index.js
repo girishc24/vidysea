@@ -4,7 +4,7 @@ import Journey from "./Journey";
 import Services from "./Services";
 import Testimonials from './testimonials';
 import Students from "./Students";
-
+import VidyseaKeyservices from "./VidyseaKeyservices";
 import Aboutus from "./Aboutus";
 import Media from "./Media";
 import Faq from "./Faq";
@@ -18,7 +18,7 @@ export {
   Services,
   Testimonials,
   Students,
-  
+  VidyseaKeyservices,
   Aboutus,
   Media,
   Faq,

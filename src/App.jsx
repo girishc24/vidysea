@@ -1,4 +1,4 @@
-import {Hero, Product, Journey, Services, Testimonials, Students,  Aboutus, Media, Faq, Subscribe, Footer} from './sections'
+import {Hero, Product, Journey, Services, Testimonials, Students,  Aboutus, Media, Faq, Subscribe, Footer, VidyseaKeyservices} from './sections'
 import Nav from './components/Nav';
 
 const App = () => {
@@ -28,7 +28,7 @@ const App = () => {
         </section>
 
         <section className="px-[3.5rem] py-7 max-sm:p-0">
-            Key Services
+            <VidyseaKeyservices />
         </section>
 
         <section className="px-[3.5rem] pt-0 pb-0 max-sm:p-0">
