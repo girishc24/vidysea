@@ -8,7 +8,7 @@ import school_students from './school_student.png'
 import college_student from './college_student.png'
 import working_professionals from './working_professionals.png'
 import graduates from './graduates.png'
-import key_services from './key_services.png'
+import key_services_img from './key_services.png'
 import media_01 from './media_01.png'
 import media_02 from './media_02.png'
 import media_03 from './media_03.png'
@@ -40,7 +40,7 @@ export {
     working_professionals,
     graduates,
 
-    key_services,
+    key_services_img,
 
     media_01,
     media_02,

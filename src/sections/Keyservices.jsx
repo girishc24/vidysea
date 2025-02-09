@@ -1,5 +1,5 @@
 import React from 'react';
-import { key_services } from "@/assets/images";
+import { key_services_img } from "@/assets/images";
 
 const KeyServices = () => {
   return (
@@ -32,8 +32,8 @@ const KeyServices = () => {
         {/* Right Image */}
         <div className="lg:w-1/2">
           <img
-            src={key_services}
-            alt="Key Services"
+            src={key_services_img}
+            alt="Key Services Image"
             className="w-full h-full object-cover"
           />
         </div>
