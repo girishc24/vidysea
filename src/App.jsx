@@ -1,6 +1,6 @@
 import {Hero, Product, Journey, Services, Testimonials, Students, Aboutus, Media, Faq, Subscribe, Footer} from './sections'
 import Nav from './components/Nav';
-// import KeyServicesNew from './sections/KeyServices';
+import KeyServicesNew from './sections/KeyServices';
 
 const App = () => {
   
@@ -28,9 +28,9 @@ const App = () => {
             <Students/>
         </section>
 
-        {/* <section className="px-[3.5rem] py-7 max-sm:p-0">
+        <section className="px-[3.5rem] py-7 max-sm:p-0">
             <KeyServicesNew/>
-        </section> */}
+        </section>
 
         <section className="px-[3.5rem] pt-0 pb-0 max-sm:p-0">
             <Aboutus/>
